@@ -1,3 +1,8 @@
+html{
+background:#E6E6FA;
+}
+
+
 header {
 	background: #BBBBBB;
 	padding: 20px 0;
